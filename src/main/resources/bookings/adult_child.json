@@ -1,0 +1,27 @@
+{
+  "flightNumber": "AI-305",
+  "journeyDate": "2026-04-10",
+  "passengers": [
+    {
+      "firstName": "Suresh",
+      "lastName": "Kumar",
+      "dateOfBirth": "1985-02-14",
+      "gender": "MALE",
+      "nationality": "INDIAN",
+      "passengerType": "ADULT"
+    },
+    {
+      "firstName": "Anaya",
+      "lastName": "Kumar",
+      "dateOfBirth": "2015-06-20",
+      "gender": "FEMALE",
+      "nationality": "INDIAN",
+      "passengerType": "CHILD"
+    }
+  ],
+  "payment": {
+    "amount": 9800.00,
+    "currency": "INR",
+    "paymentMethod": "NET_BANKING"
+  }
+}

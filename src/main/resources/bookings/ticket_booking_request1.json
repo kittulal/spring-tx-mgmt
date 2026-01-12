@@ -1,0 +1,24 @@
+{
+  "flightNumber": "AI-203",
+  "journeyDate": "2026-02-15",
+  "passengers": [
+    {
+      "firstName": "Rahul",
+      "lastName": "Sharma",
+      "dateOfBirth": "1990-08-15",
+      "gender": "MALE",
+      "nationality": "INDIAN",
+      "passportNumber": "N1234567",
+      "email": "rahul.sharma@gmail.com",
+      "phoneNumber": "9876543210",
+      "seatNumber": "12A",
+      "passengerType": "ADULT"
+    }
+  ],
+  "payment": {
+    "amount": 7500.00,
+    "currency": "INR",
+    "paymentMethod": "UPI",
+    "upiId": "rahul@upi"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "flightNumber": "AI-204",
+  "journeyDate": "2026-03-01",
+  "passengers": [
+    {
+      "firstName": "Amit",
+      "lastName": "Verma",
+      "dateOfBirth": "1988-05-10",
+      "gender": "MALE",
+      "nationality": "INDIAN",
+      "passportNumber": "P998877",
+      "passengerType": "ADULT"
+    },
+    {
+      "firstName": "Neha",
+      "lastName": "Verma",
+      "dateOfBirth": "1990-09-22",
+      "gender": "FEMALE",
+      "nationality": "INDIAN",
+      "passportNumber": "P998878",
+      "passengerType": "ADULT"
+    }
+  ],
+  "payment": {
+    "amount": 14500.00,
+    "currency": "INR",
+    "paymentMethod": "CREDIT_CARD",
+    "cardNumber": "4111111111111111"
+  }
+}

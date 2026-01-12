@@ -1,0 +1,15 @@
+{
+  "flightNumber": "AI-410",
+  "journeyDate": "2026-05-05",
+  "passengers": [
+    { "firstName": "Ravi", "lastName": "Mehta", "dateOfBirth": "1982-03-10", "gender": "MALE", "nationality": "INDIAN", "passengerType": "ADULT" },
+    { "firstName": "Pooja", "lastName": "Mehta", "dateOfBirth": "1986-07-18", "gender": "FEMALE", "nationality": "INDIAN", "passengerType": "ADULT" },
+    { "firstName": "Aarav", "lastName": "Mehta", "dateOfBirth": "2016-11-02", "gender": "MALE", "nationality": "INDIAN", "passengerType": "CHILD" },
+    { "firstName": "Isha", "lastName": "Mehta", "dateOfBirth": "2024-01-05", "gender": "FEMALE", "nationality": "INDIAN", "passengerType": "INFANT" }
+  ],
+  "payment": {
+    "amount": 18500.00,
+    "currency": "INR",
+    "paymentMethod": "DEBIT_CARD"
+  }
+}
